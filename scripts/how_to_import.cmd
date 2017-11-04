@@ -1,0 +1,1 @@
+./billsort test.data > test.jsons ; ./insert.sh test.jsons
